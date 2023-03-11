@@ -1,0 +1,8 @@
+galaxy_info:
+  role_name: apache
+  author: monica
+  description: install apache
+  license: license (GPLv2, CC-BY, etc)
+
+  min_ansible_version: 1.2
+
